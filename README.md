@@ -31,3 +31,8 @@ and 8 columns.
 
 ## Author
 Data Science Portfolio Project
+## Dataset Source
+Dataset: Students Performance in Exams
+
+Source: Kaggle
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams

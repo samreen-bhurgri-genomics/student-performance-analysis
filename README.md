@@ -24,7 +24,10 @@ and 8 columns.
 - Data visualization
 
 ## Key Findings
-- Reading has the highest overall average.
+Average Math Score: 66.09
+- Average Reading Score: 69.17
+- Average Writing Score: 68.05
+- Highest Average Subject: Reading
 - Male students have a higher Math average.
 - Female students have higher Reading and Writing averages.
 - Students who completed test preparation have higher average scores.

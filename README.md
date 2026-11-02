@@ -31,6 +31,12 @@ Average Math Score: 66.09
 - Male students have a higher Math average.
 - Female students have higher Reading and Writing averages.
 - Students who completed test preparation have higher average scores.
+- 
+## Visualizations
+### Average Student Marks by Subject
+![Average Student Marks](Average_Student_Marks.png)
+### Test Preparation Course Analysis
+![Test Preparation Analysis](Test_Preparation_Analysis.png)
 
 ## Author
 Data Science Portfolio Project
